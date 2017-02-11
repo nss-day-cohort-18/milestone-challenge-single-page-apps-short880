@@ -1,0 +1,22 @@
+body {
+  background: #lightgrey;
+}
+
+.black-border {
+  border: 3px solid black;
+  background: #FFFFF0;
+  color: #000000;
+}
+
+.inside {
+  padding: 5px;
+}
+
+.carCard {
+  padding-top: 10px;
+}
+
+.red-border {
+  border: 5px dotted red;
+  background: #000;
+}

@@ -1,23 +1,32 @@
-  [
+{
+  "cars": [
     {
       "make": "Nissan",
       "model": "Rogue",
-      "year": "2006",
-      "price": "8999",
+      "year": "Year: 2006",
+      "price": "Price: $8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Toyata",
+      "model": "Titan",
+      "year": "Year: 2002",
+      "price": "Price: $5999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang",
+      "year": "Year: 1998",
+      "price": "Price: $10999",
       "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
     },
     {
       "make": "Jeep",
       "model": "Wrangler",
-      "year": "2004",
-      "price": "8999",
-      "description": "This beast is nasty!."
-    },
-    {
-      "make": "Honda",
-      "model": "Civic",
-      "year": "2001",
-      "price": "1700",
-      "description": "This beauty is awesome!."
+      "year": "Year: 2004",
+      "price": "Price: $8600",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
     }
   ]
+}

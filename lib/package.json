@@ -2,12 +2,10 @@
   "name": "lib",
   "version": "1.0.0",
   "description": "",
-  "main": "gruntfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "copy": "^0.3.0",
@@ -19,5 +17,10 @@
     "jshint": "^2.9.4",
     "jshint-stylish": "^2.2.1",
     "matchdep": "^1.0.1"
-  }
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "author": "",
+  "license": "ISC"
 }
